@@ -1,0 +1,20 @@
+## Hardware
+- Recommended: ≥16 GB RAM
+- Multi-core CPU (10+ cores recommended for ratio analysis)
+
+## Software
+- R >= 4.1
+- RStudio (recommended)
+
+## Operating Systems
+- Windows 10 / 11
+- Linux (HPC compatible)
+- macOS (Intel / Apple Silicon)
+
+---
+
+## Required R Packages
+
+- doParallel
+- foreach
+- dplyr
